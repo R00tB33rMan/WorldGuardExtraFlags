@@ -1,4 +1,4 @@
-# WorldGuard ExtraFlags
+# WorldGuardExtraFlags
 
 A Bukkit plugin extension that provides extra flags for [WorldGuard](https://github.com/EngineHub/WorldGuard).
 
